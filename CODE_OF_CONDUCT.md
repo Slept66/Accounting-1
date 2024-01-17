@@ -1,4 +1,5 @@
-#TEST COC
+* Contributors Code Of Conduct is Under this...
+  
 # Citizen Code of Conduct
 
 ## 1. Purpose
