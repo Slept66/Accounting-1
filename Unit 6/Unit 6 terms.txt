@@ -1,0 +1,23 @@
+Fiscal Period: The length of time for which a business summarizes its finacial 
+information and reports its financial performance
+
+Fiscal Year: A fiscal period consisting of twelve consecutive months.
+
+Work Sheet: A columnar accounting form used to summarize the general ledger information
+needed to prepare financial statements.
+
+Balance Sheet: A financial statement that reports the value of a business's assets,
+liabilities, and owner's equity on a specific date is called a balance sheet.
+
+Income statement: A financial statement showing the revenue and expenses for a
+fiscal period.
+
+Net income: the diffrences between total revenue and total expenses when total 
+revenue is greater.
+
+Net loss: The diffrenence between total revenue and total expenses when total 
+expenses are greater.
+
+Adjusting Entries: Journal Entries recorded to update general ledger accounts 
+at the end of a fiscal period.
+
